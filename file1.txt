@@ -1,1 +1,5 @@
 Line 1hw r u
+<<<<<<< Updated upstream
+Im fine
+=======
+>>>>>>> Stashed changes
